@@ -1,0 +1,15 @@
+[submodule "Mortal"]
+	path = Mortal
+	url = https://github.com/Equim-chan/Mortal
+[submodule "mjx"]
+	path = mjx
+	url = https://github.com/mjx-project/mjx
+[submodule "mjai-manue"]
+	path = mjai-manue
+	url = https://github.com/gimite/mjai-manue
+[submodule "Majiang"]
+	path = Majiang
+	url = https://github.com/kobalab/Majiang
+[submodule "RiichiEnv"]
+	path = RiichiEnv
+	url = https://github.com/smly/RiichiEnv

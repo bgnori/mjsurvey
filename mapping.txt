@@ -1,0 +1,6 @@
+
+Mortal https://github.com/Equim-chan/Mortal
+mjx https://github.com/mjx-project/mjx
+mjai-manue https://github.com/gimite/mjai-manue
+Majiang https://github.com/kobalab/Majiang
+RiichiEnv https://github.com/smly/RiichiEnv
