@@ -1,0 +1,4 @@
+{
+  "name": "Python",
+  "image": "mcr.microsoft.com/devcontainers/python:3"
+}
